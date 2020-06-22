@@ -10,6 +10,7 @@
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
+- [Licença](#-licença)
 
 ---
 
@@ -42,3 +43,6 @@ npm install
 # Iniciar o server no http://localhost:3000
 npm start
 ```
+
+## 📝 Licença
+[MIT License](/LICENSE)
